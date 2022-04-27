@@ -298,7 +298,12 @@ header {
 
 .restaurant-description {
     margin-bottom: 3rem;
-    color: #ffffffda;
+    color: #0e0a0ada;
+}
+
+.restaurant-description-dark {
+    margin-bottom: 3rem;
+    color: #c0bdbdda;
 }
 
 .restaurant-description p {
