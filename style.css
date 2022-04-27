@@ -144,7 +144,7 @@ header {
     font-size: 1.6rem;
     letter-spacing: 2px;
     margin-right: -2px;
-    transition: color.5s;
+    transition: .3s;
 }
 
 .nav-link:hover {
@@ -298,6 +298,7 @@ header {
 
 .restaurant-description {
     margin-bottom: 3rem;
+    color: #ffffffda;
 }
 
 .restaurant-description p {
